@@ -23,7 +23,7 @@ User → Retell AI (Multi-Prompt Agent)
 ---
 
 ## 🗂️ Folder Structure
-
+```
 Barbeque-Nation-Voice-AI/
 ├── api/
 │ └── main.py # Flask backend with /kb, /menu, /properties
@@ -51,7 +51,7 @@ Barbeque-Nation-Voice-AI/
 │ └── index.html
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
