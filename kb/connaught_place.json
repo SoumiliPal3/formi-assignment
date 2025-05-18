@@ -1,0 +1,89 @@
+{
+  "branch_name": "Connaught Place",
+  "address": "Munshilal Building, 2nd Floor, N-19, Block N, Connaught Place, New Delhi, Delhi 110001",
+  "contacts": ["7042698057", "8130244992", "8470015488"],
+  "timings": {
+    "monday_to_friday": {
+      "lunch": {
+        "open": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "open": "06:30 PM",
+        "last_entry": "11:00 PM",
+        "close": "12:00 AM"
+      }
+    },
+    "saturday": {
+      "lunch": {
+        "open": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "open": "06:30 PM",
+        "last_entry": "11:00 PM",
+        "close": "12:00 AM"
+      }
+    },
+    "sunday": {
+      "lunch": {
+        "open": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "open": "06:30 PM",
+        "last_entry": "11:00 PM",
+        "close": "12:00 AM"
+      }
+    }
+  },
+  "booking_rules": {
+    "monday_to_thursday": {
+      "2plus1": {
+        "lunch_slot_1": "Flexible",
+        "lunch_slot_2": "Take till last entry",
+        "dinner_slot_1": "Take till 07:00 PM",
+        "dinner_slot_2": "Take till last entry"
+      },
+      "3plus": "Same as 2plus1"
+    },
+    "friday_to_sunday": {
+      "2plus1": {
+        "lunch_slot_1": "Take till 12:30 PM",
+        "lunch_slot_2": "Take till last entry",
+        "dinner_slot_1": "Take till 07:00 PM",
+        "dinner_slot_2": "Take till last entry"
+      },
+      "3plus": "Same as 2plus1"
+    }
+  },
+  "amenities": {
+    "bar": true,
+    "valet_parking": false,
+    "lift": true,
+    "baby_chair": true,
+    "pdr_available": true,
+    "pdr_min_pax": 20,
+    "pdr_capacity": 25
+  },
+  "offers": {
+    "complimentary_drinks": "Lunch: Monday to Friday / 1 Round / Soft drink or Mocktail",
+    "early_bird_offer": false,
+    "kitty_party_offer": false,
+    "student_offer": false,
+    "buffet_5plus1_offer": false,
+    "army_offer": false,
+    "drinks_offer": false
+  },
+  "nearby_outlets": [
+    {
+      "name": "New Friends Colony",
+      "distance_km": 13,
+      "address": "Shop No 57A, 1st Floor, Community Center, near Modi Enterprises, New Friends Colony, New Delhi, Delhi 110025"
+    }
+  ],
+  "closed_dates": []
+}

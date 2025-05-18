@@ -1,0 +1,101 @@
+{
+  "branch_name": "Indiranagar",
+  "address": "No.4005, HAL 2nd stage, 100 Feet Road, Indiranagar, Bangalore - 560038",
+  "contacts": ["7892263996", "7090757068"],
+  "timings": {
+    "monday_to_friday": {
+      "lunch": {
+        "open": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "open": "06:30 PM",
+        "last_entry": "11:00 PM",
+        "close": "11:55 PM"
+      }
+    },
+    "saturday": {
+      "lunch": {
+        "open": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "open": "06:30 PM",
+        "last_entry": "11:00 PM",
+        "close": "11:55 PM"
+      }
+    },
+    "sunday": {
+      "lunch": {
+        "open": "11:00 AM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "open": "06:30 PM",
+        "last_entry": "11:00 PM",
+        "close": "11:55 PM"
+      }
+    }
+  },
+  "booking_rules": {
+    "monday": {
+      "2plus1": {
+        "lunch_slot_1": "Flexible",
+        "lunch_slot_2": "Take till last entry",
+        "dinner_slot_1": "Flexible",
+        "dinner_slot_2": "Take till last entry"
+      },
+      "3plus": {
+        "lunch_slot_1": "Flexible",
+        "lunch_slot_2": "Take till last entry",
+        "dinner_slot_1": "Flexible",
+        "dinner_slot_2": "Take till last entry"
+      }
+    },
+    "tuesday": "Same as Monday",
+    "wednesday": "Same as Monday",
+    "thursday": "Same as Monday",
+    "friday": "Same as Monday",
+    "saturday": "Same as Monday",
+    "sunday": "Same as Monday"
+  },
+  "amenities": {
+    "bar": true,
+    "valet_parking": true,
+    "lift": true,
+    "baby_chair": true,
+    "pdr_available": false,
+    "pdr_min_pax": null,
+    "pdr_capacity": null
+  },
+  "offers": {
+    "complimentary_drinks": "Lunch / Monday to Saturday / 1 Round / Soft drink or Mocktail",
+    "early_bird_offer": false,
+    "kitty_party_offer": false,
+    "student_offer": false,
+    "buffet_5plus1_offer": false,
+    "army_offer": false,
+    "drinks_offer": false
+  },
+  "nearby_outlets": [
+    {
+      "name": "Lido Mall, MG Road",
+      "distance_km": 4.1,
+      "address": "1/4, Ground Floor, Lido Mall, Swami Vivekananda Road, Halasuru, Bengaluru"
+    },
+    {
+      "name": "Koramangala 7th Block",
+      "distance_km": 5.8,
+      "address": "118, 1st Floor, 80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru"
+    }
+  ],
+  "closed_dates": [
+    {
+      "date": "2024-10-02",
+      "reason": "Closed full day due to Gandhi Jayanthi"
+    }
+  ]
+}

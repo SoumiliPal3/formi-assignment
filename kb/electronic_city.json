@@ -1,0 +1,39 @@
+{
+  "branch_name": "Electronic City, Bangalore",
+  "address": "99, 14th Cross Road, Neeladri Nagar, Electronics City Phase 1, Bengaluru, Karnataka 560100",
+  "phone_numbers": ["7090757126", "7090757059"],
+  "timings": {
+    "monday_to_sunday": {
+      "lunch": { "start": "12:00 PM", "last_entry": "04:00 PM", "close": "05:00 PM" },
+      "dinner": { "start": "06:30 PM", "last_entry": "11:00 PM", "close": "11:55 PM" }
+    }
+  },
+  "booking_policy": {
+    "2_plus_1": {
+      "lunch_slots": ["Flexible", "Take till last entry"],
+      "dinner_slots": ["Flexible", "Take till last entry"]
+    },
+    "3_and_above": {
+      "lunch_slots": ["Flexible", "Take till last entry"],
+      "dinner_slots": ["Flexible", "Take till last entry"]
+    }
+  },
+  "amenities": {
+    "bar": false,
+    "valet_parking": "Self / Chargeable",
+    "lift": true,
+    "baby_chair": true,
+    "pdr_available": false,
+    "pdr_capacity": null
+  },
+  "offers": {
+    "early_bird": false,
+    "kitty_party": false,
+    "student_offer": false,
+    "buffet_5_plus_1": false,
+    "army_offer": false,
+    "drinks_offer": false
+  },
+  "special_closures": {},
+  "nearest_outlets": []
+}

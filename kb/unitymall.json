@@ -1,0 +1,72 @@
+{
+  "branch_name": "Unity Mall, Janakpuri, New Delhi",
+  "address": "Unity One, 2nd Floor, Narang Colony, Chander Nagar, Janakpuri, New Delhi, Delhi 110058",
+  "phone_numbers": ["9810445315", "9311177719", "7827935431"],
+  "timings": {
+    "monday_to_friday": {
+      "lunch": {
+        "start": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "start": "06:00 PM",
+        "last_entry": "11:00 PM",
+        "close": "12:00 AM"
+      }
+    },
+    "weekend": {
+      "lunch": {
+        "start": "12:00 PM",
+        "last_entry": "04:00 PM",
+        "close": "05:00 PM"
+      },
+      "dinner": {
+        "start": "06:00 PM",
+        "last_entry": "11:00 PM",
+        "close": "12:00 AM"
+      }
+    }
+  },
+  "booking_policy": {
+    "2_plus_1": {
+      "lunch_slots": ["Flexible", "Take till last entry"],
+      "dinner_slots": ["Flexible", "Take till last entry"]
+    },
+    "3_and_above": {
+      "lunch_slots": ["Flexible", "Take till last entry"],
+      "dinner_slots": ["Flexible", "Take till last entry"]
+    }
+  },
+  "amenities": {
+    "bar": true,
+    "valet_parking": "Self / Mall Parking / Chargeable",
+    "lift": true,
+    "baby_chair": false,
+    "pdr_available": false,
+    "pdr_capacity": null
+  },
+  "offers": {
+    "early_bird": false,
+    "kitty_party": "Refer Kitty Offer Tab",
+    "student_offer": "Refer Student Offer Tab",
+    "buffet_5_plus_1": false,
+    "army_offer": false,
+    "drinks_offer": false
+  },
+  "special_closures": {
+    "2025-03-14": "Lunch closed due to Holi; suggest dinner instead"
+  },
+  "nearest_outlets": [
+    {
+      "name": "Rajouri Garden",
+      "distance_km": 6.3,
+      "address": "A2/41, 3rd Floor, Rajouri Garden, New Delhi 110027"
+    },
+    {
+      "name": "Paschim Vihar",
+      "distance_km": 7.8,
+      "address": "3rd Floor, Emaya Mall, New Delhi-110063"
+    }
+  ]
+}

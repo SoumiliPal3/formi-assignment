@@ -1,0 +1,56 @@
+{
+  "branch_name": "Koramangala 1st Block, Bangalore",
+  "address": "1st Cross Rd, 1st Block Koramangala, Bengaluru, Karnataka 560034",
+  "phone_numbers": ["9071399811", "9071399812", "9071772467"],
+  "timings": {
+    "monday_to_friday": {
+      "lunch": { "start": "12:00 PM", "last_entry": "04:00 PM", "close": "05:00 PM" },
+      "dinner": { "start": "06:30 PM", "last_entry": "10:30 PM", "close": "11:30 PM" }
+    },
+    "weekend": {
+      "lunch": { "start": "12:00 PM", "last_entry": "04:00 PM", "close": "05:00 PM" },
+      "dinner": { "start": "06:30 PM", "last_entry": "11:00 PM", "close": "11:55 PM" }
+    }
+  },
+  "booking_policy": {
+    "2_plus_1": {
+      "lunch_slots": ["Flexible", "Take till last entry"],
+      "dinner_slots": ["Flexible", "Take till last entry"]
+    },
+    "3_and_above": {
+      "lunch_slots": ["Flexible", "Take till last entry"],
+      "dinner_slots": ["Flexible", "Take till last entry"]
+    }
+  },
+  "amenities": {
+    "bar": true,
+    "valet_parking": "Yes",
+    "lift": true,
+    "baby_chair": true,
+    "pdr_available": false,
+    "pdr_capacity": null
+  },
+  "offers": {
+    "early_bird": false,
+    "kitty_party": false,
+    "student_offer": false,
+    "buffet_5_plus_1": false,
+    "army_offer": false,
+    "drinks_offer": false
+  },
+  "special_closures": {
+    "2024-10-02": "Closed full day for Gandhi Jayanti"
+  },
+  "nearest_outlets": [
+    {
+      "name": "Koramangala 7th Block",
+      "distance_km": 3.7,
+      "address": "118, 1st Floor, 80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru"
+    },
+    {
+      "name": "Indiranagar",
+      "distance_km": 5.9,
+      "address": "No.4005, HAL 2nd stage, 100 Feet Rd, Indiranagar, Bangalore-560038"
+    }
+  ]
+}

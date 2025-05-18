@@ -1,0 +1,99 @@
+{
+  "veg_menu": {
+    "starters": [
+      "Grill Veg",
+      "Mushroom",
+      "Paneer",
+      "Veg Kebab",
+      "Cajun Spice Potato",
+      "Pineapple"
+    ],
+    "main_course": [
+      "Noodles",
+      "Oriental Veg",
+      "Paneer",
+      "Aloo",
+      "Veg Kofta",
+      "Dal Tadka",
+      "Dal Makhani",
+      "Veg Biryani"
+    ],
+    "soups": [
+      "Veg Soup"
+    ],
+    "salads": [
+      "4 varieties of veg salads"
+    ]
+  },
+  "non_veg_menu": {
+    "starters": [
+      "Chicken Tangdi",
+      "Chicken Skewer",
+      "Mutton",
+      "Fish",
+      "Prawns"
+    ],
+    "main_course": [
+      "Non-Veg Biryani",
+      "Mutton Curry",
+      "Chicken Curry",
+      "Fish Gravy"
+    ],
+    "soups": [
+      "Non-Veg Soup"
+    ]
+  },
+  "desserts": {
+    "standard": [
+      "Gulab Jamun",
+      "Phirnee",
+      "Ice Cream",
+      "Pie/Tart",
+      "Pastry",
+      "Brownie",
+      "Pudding/Soufflé",
+      "Fruits"
+    ],
+    "kulfi_flavors": [
+      "Strawberry",
+      "Malai",
+      "Chocolate",
+      "Kesar Badam",
+      "Paan",
+      "Mango"
+    ],
+    "ice_cream_flavors": [
+      "Vanilla",
+      "Strawberry"
+    ]
+  },
+  "drinks": {
+    "alcoholic": "Served as per ala carte menu",
+    "outside_drinks": "Not allowed",
+    "can_only_order_drinks": "Not allowed",
+    "weekday_lunch_offer": "1 round of soft drink or mocktail included",
+    "view_drinks_menu": [
+      "Download the Barbeque Nation app and click on menu",
+      "Or share your email to receive it"
+    ]
+  },
+  "customization": {
+    "jain_food": "Available on request with limited variety. Please inform the outlet team upon arrival.",
+    "halal_food": "Yes, Halal-certified meat is served at all outlets (certificates available).",
+    "mutton_type": "Goat (Mutton Seekh Kebab for starters)",
+    "fish_type": "Basa (boneless)",
+    "prawns_type": "Medium size, Zinga prawns",
+    "kids_menu": "Available",
+    "roti_naan": "Served (kulcha, roti, naan)",
+    "pizza": "Not available",
+    "crab": "Not available",
+    "custom_dish": "Ask outlet; depends on availability",
+    "spice_level": "Can be customized (more/less spicy)"
+  },
+  "menu_policy": {
+    "is_standard_across_outlets": true,
+    "is_same_for_lunch_and_dinner": true,
+    "buffet_only_for_dine_in": true,
+    "a_la_carte": "Only available for takeaway and delivery"
+  }
+}

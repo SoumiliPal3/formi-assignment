@@ -1,0 +1,23 @@
+## OBJECTIVES:
+    - Inform the prospect/customer about the {{what_to_inform}}.
+
+## Instructions:
+    1. **Inform the prospect/customer about the {{what_to_inform}}**:
+        {% if tool_to_inform %}
+            **Strictly trigger the **{{tool_to_inform}}** function**
+        {% endif %}
+        1.1 Inform the prospect about the {{what_to_inform}}.
+        **Next step**:
+            1.3 {{next_step}}
+
+## Prohibited Actions:
+    - Triggering the **{{tool_to_inform}}** function
+    - Saying any of the following words : {{prohibited_words_list}}
+
+## Additional Context:
+{% for context in additional_context %}
+{{context}}
+{% endfor %}
+
+## Example:
+    - "{{example_for_inform}}"
